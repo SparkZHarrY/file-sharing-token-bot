@@ -7,8 +7,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/sahildesai07/File-Sharing-Bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "repository": "https://github.com/SparkZHarrY/file-sharing-token-bot",
+  "logo": "https://ibb.co/PmDttdh",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -28,7 +28,7 @@
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "ultroidxTeam"
+      "value": "actressuniverseofficial"
     },
     "SHORTLINK_URL":{
       "description": "Enter your SHORTLINK_URL , add yr shortner url . ",
@@ -36,7 +36,7 @@
     },
     "SHORTLINK_API":{
       "description": "Enter yourSHORTLINK_API , add yr shortner api ",
-      "value": "710b7ed8fdc5f89e9036000cc10121921e7732f1"
+      "value": "23EgfJCbHSYQmsrl8tm0VIqXU0H2"
     },
     "IS_VERIFY":{
       "description": "True= (on)or False = (off) , value = True/False ",
