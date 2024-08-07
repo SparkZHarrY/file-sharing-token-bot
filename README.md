@@ -52,7 +52,7 @@ For a detailed deployment guide, watch [this tutorial video](https://youtu.be/7j
 
 Click the button below to deploy the bot on Koyeb:
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/sahildesai07/file-sharing-token-bot&branch=main&name=file-sharing-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/SparkZHarrY/file-sharing-token-bot&branch=main&name=file-sharing-bot)
 
 ### Deploy on Your VPS
 
