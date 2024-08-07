@@ -30,8 +30,8 @@ DB_NAME = os.environ.get("DATABASE_NAME", "filebotx")
 # check my discription to help by using my refer link of shareus.io
 # 
 
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "clicksfly.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "d9da036265cd7435ccd332e212b97af7703bcfb5")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "api.shareus.io")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "23EgfJCbHSYQmsrl8tm0VIqXU0H2")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID", "https://t.me/links_tutorials_x/3") # shareus ka tut_vid he 
