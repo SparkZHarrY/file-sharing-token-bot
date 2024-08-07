@@ -3,7 +3,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6441674998:AAGXDX7hYyPRJayiIXFZPsbYAze_Dsu4Jwo")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7219119674:AAHfybl_9dNipCd7y--4fVq_BvAMVNpQ_lU")
 
 #Your API ID & API HASH from my.telegram.org [https://youtu.be/gZQJ-yTMkEo?si=H4NlUUgjsIc5btzH]
 #Your API ID from my.telegram.org
@@ -13,7 +13,7 @@ APP_ID = int(os.environ.get("APP_ID", "26132893"))
 API_HASH = os.environ.get("API_HASH", "5f8cc9ef2e106d963607432c1a21bbc8")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002164967281"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002226605455"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "847244116"))
@@ -34,7 +34,7 @@ SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "clicksfly.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "d9da036265cd7435ccd332e212b97af7703bcfb5")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
-TUT_VID = os.environ.get("TUT_VID", "https://t.me/Ultroid_Official/18") # shareus ka tut_vid he 
+TUT_VID = os.environ.get("TUT_VID", "https://t.me/links_tutorials_x/3") # shareus ka tut_vid he 
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001119766850"))
