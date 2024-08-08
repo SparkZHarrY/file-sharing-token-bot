@@ -34,7 +34,7 @@ SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "api.shareus.io")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "23EgfJCbHSYQmsrl8tm0VIqXU0H2")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
-TUT_VID = os.environ.get("TUT_VID", "https://t.me/links_tutorials_x/3") # shareus ka tut_vid he 
+TUT_VID = os.environ.get("TUT_VID", "https://t.me/links_tutorials_x/4") # shareus ka tut_vid he 
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001119766850"))
